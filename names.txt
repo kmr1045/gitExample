@@ -1,2 +1,3 @@
-boss,kmrose2,Rose,Kobe
+role,NetID,LastName,FirstName
+pboss,kmrose2,Rose,Kobe
 employee,mjkozlowski,Kozlowski,Miles
